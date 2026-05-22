@@ -694,6 +694,7 @@ else:
         if st.button("🚪 Salir",use_container_width=True): st.session_state.user=None; st.rerun()
         st.divider()
         st.info("Los partidos se bloquean al publicar el resultado.")
+        st.info("Cuenta para depÓsitos: RAUL DE LA LUZ CLABE MERCADO PAGO: 722969015302643582 ")
 
     # ══════════════════════════════════════════
     # USUARIO NORMAL
